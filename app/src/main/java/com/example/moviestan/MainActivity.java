@@ -16,7 +16,7 @@ import retrofit2.Response;
 public class MainActivity extends AppCompatActivity {
       List<Movie> movies;
     String TAG=getClass().getSimpleName();
-     private  static String API_KEY="24004952b9dc149d04d33479742bdff5";
+     private  static String API_KEY="APIkEY;
      private RecyclerView mRecyclerView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
