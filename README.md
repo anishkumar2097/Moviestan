@@ -1,4 +1,4 @@
-# Moviestan-Get the latest hollywood movie list
+# Moviestan-Get the  list of latest hollywood movies
 
 You can see list of hollywood movies along with their rating and release date. You can get more detail of the movie after clicking on it . Sharing features is also available for sharing or recommending to watch the movie to your friends
 
