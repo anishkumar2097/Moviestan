@@ -1,4 +1,4 @@
-# Moviestan-An app where you get list of movies
+# Moviestan-Get the latest hollywood movie list
 
 You can see list of hollywood movies along with their rating and release date. You can get more detail of the movie after clicking on it . Sharing features is also available for sharing or recommending to watch the movie to your friends
 
